@@ -1,0 +1,13 @@
+- Lista de pendências na atividade:
+
+Fazer os turnos aparecerem na mesma linha;
+Corrigir uma integração do cep que deixa vermelho mesmo quando o cep está correto;
+adicionar mais 4 elementos de UI.
+
+- Elementos de UI já incluídos:
+Slider button,
+input field,
+selection box,
+radio button,
+checkbox,
+button.
