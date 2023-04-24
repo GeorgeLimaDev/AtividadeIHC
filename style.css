@@ -1,3 +1,4 @@
+/*
 .logo {
     display: block;
     margin-left: auto;
@@ -5,7 +6,18 @@
     width: 25%;
     margin-top: 0.5rem;
     border-radius: 10px;
-  }
+}
+*/
+.logo{
+    margin: auto;
+    display: block;
+
+    max-width:150px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    }
+  
 
 h1 {
     text-align: center;
@@ -84,4 +96,8 @@ input:checked + .slider:before {
 
 .slider.round:before {
     border-radius: 50%;
+}
+
+button{
+    position: center;
 }
